@@ -1,0 +1,32 @@
+[
+  {
+    "id": "img_001",
+    "image": "data/raw_images/img_001.jpg",
+    "prompt": "Look at the scientific experiment setup and output a logical step-by-step operation plan.",
+    "response": "Step 1: Prepare the laboratory equipment shown in the image.\nStep 2: Arrange the instruments on the workbench and ensure they are properly connected.\nStep 3: Observe the readings or experimental indicators displayed on the devices.\nStep 4: Record the experimental results and clean the workspace."
+  },
+  {
+    "id": "img_002",
+    "image": "data/raw_images/img_002.jpg",
+    "prompt": "Look at the scientific experiment setup and output a logical step-by-step operation plan.",
+    "response": "Step 1: Prepare the laboratory equipment shown in the image.\nStep 2: Arrange the instruments on the workbench and ensure they are properly connected.\nStep 3: Observe the readings or experimental indicators displayed on the devices.\nStep 4: Record the experimental results and clean the workspace."
+  },
+  {
+    "id": "img_003",
+    "image": "data/raw_images/img_003.jpg",
+    "prompt": "Look at the scientific experiment setup and output a logical step-by-step operation plan.",
+    "response": "Step 1: Prepare the laboratory equipment shown in the image.\nStep 2: Arrange the instruments on the workbench and ensure they are properly connected.\nStep 3: Observe the readings or experimental indicators displayed on the devices.\nStep 4: Record the experimental results and clean the workspace."
+  },
+  {
+    "id": "img_004",
+    "image": "data/raw_images/img_004.jpg",
+    "prompt": "Look at the scientific experiment setup and output a logical step-by-step operation plan.",
+    "response": "Step 1: Prepare the laboratory equipment shown in the image.\nStep 2: Arrange the instruments on the workbench and ensure they are properly connected.\nStep 3: Observe the readings or experimental indicators displayed on the devices.\nStep 4: Record the experimental results and clean the workspace."
+  },
+  {
+    "id": "img_005",
+    "image": "data/raw_images/img_005.jpg",
+    "prompt": "Look at the scientific experiment setup and output a logical step-by-step operation plan.",
+    "response": "Step 1: Prepare the laboratory equipment shown in the image.\nStep 2: Arrange the instruments on the workbench and ensure they are properly connected.\nStep 3: Observe the readings or experimental indicators displayed on the devices.\nStep 4: Record the experimental results and clean the workspace."
+  }
+]
